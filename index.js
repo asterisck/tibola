@@ -35,7 +35,6 @@ function generateToken() {
 
     const payload = {
         username: "8471801440",
-        password: "123456",
         client_id: "system-admin",
         client_secret: "KjPXuAVfC5xbmgreETNMaL7z",
         grant_type: "password",
